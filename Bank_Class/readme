@@ -1,0 +1,37 @@
+# Bank Account Project
+
+This project features a simple bank account management system implemented in Python. The `BankAccount` class allows users to create accounts, make deposits, withdraw funds, yield interest, and display account information.
+
+### Bank Account
+The Bank Account project is a command-line application that enables users to manage bank accounts with basic functionalities. The program also supports method chaining for seamless transactions.
+
+### Features
+- Create bank accounts with custom interest rates and initial balances
+- Deposit funds into an account
+- Withdraw funds from an account (with fee for insufficient funds)
+- Yield interest on the account balance
+- Display account information
+- Display information for all accounts
+
+## Installation and Usage
+
+1. Clone this repository:
+    ```bash
+    git clone https://github.com/AKimmerle/Python/tree/main/Bank_Class 
+    ```
+2. Navigate to the BankAccount directory:
+    ```bash
+    cd BankAccountProject
+    ```
+3. Run the script:
+    ```bash
+    python bank_account.py
+    ```
+
+## Resources
+- [Python Official Documentation](https://docs.python.org/3/)
+- [Real Python](https://realpython.com/)
+- [Learn Python Programming](https://learnpythonprogramming.net/)
+
+## License
+This project is licensed under the MIT License. See the license file in the repository for more details.
