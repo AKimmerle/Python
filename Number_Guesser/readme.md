@@ -1,7 +1,3 @@
-Sure, here is your code summary formatted in the style you requested:
-
----
-
 # Guess The Number Game
 
 This project features a simple number guessing game implemented in Python. The `Guess The Number` game allows users to guess a randomly generated number between 1 and 100, providing feedback and tracking the number of attempts.
@@ -38,5 +34,3 @@ The Guess The Number project is a command-line application that challenges users
 
 ## License
 This project is licensed under the MIT License. See the license file in the repository for more details.
-
----
